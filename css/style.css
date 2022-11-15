@@ -8,12 +8,13 @@
     height: 100vh;
     display: flex;
     flex-direction: column;
+    background-image: url(../img/fondo.jpg);
 }
 
 .headerContainer{
     display: flex;
     width: 100vw;
-    height: 5vh;
+    height: 10vh;
 }
 
 .left{
@@ -39,13 +40,37 @@
 .nav a{
     margin-left: 2em;
     text-decoration: none;
+    color: white;
 }
 
 .right{
     display: flex;
+    justify-content: center;
+    align-items: center;
     width: 60vw;
 }
 
 .nav2{
     display: flex;
+}
+
+.nav2 a{
+    margin-left: 2em;
+    text-decoration: none;
+    color: white;
+}
+
+.login{
+    display: flex;
+    
+}
+
+.login img{
+    width: 20px;
+    margin-left: 1em;
+}
+
+.nav2 img{
+    width: 20px;
+    margin-left: 1em;
 }
