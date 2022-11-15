@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.headerContainer{
+    display: flex;
+    width: 100vw;
+    height: 5vh;
+}
+
+.left{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40vw;
+}
+
+.logo{
+    margin-left: 3vw;
+}
+
+.logo img{
+    width: 200px;
+    
+}
+
+.nav{
+    margin-left: 2em;
+}
+
+.nav a{
+    margin-left: 2em;
+    text-decoration: none;
+}
+
+.right{
+    display: flex;
+    width: 60vw;
+}
+
+.nav2{
+    display: flex;
+}
