@@ -95,3 +95,39 @@
     width: 40vw;
     height: 5vh;  
 }
+
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:100vw;
+    height: 30vh;
+    margin-top: 8%;
+}
+
+.news{
+    display: flex;
+    justify-content: space-between;
+    width: 65vw;
+}
+
+.news1{
+    width: 11vw;
+}
+
+.news2{
+    width: 10vw;
+}
+
+.news3{
+    width: 12vw;
+}
+
+.news4{
+    width: 13vw;
+}
+
+.news5{
+    width: 11vw;
+}
+
