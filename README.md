@@ -6,7 +6,7 @@ Actividades de refuerzo HTML5/CSS, del Bootcamp Programación Frontend Angular.
 
 ## Retos
 
-Replicar el layout del buscador Bing.
+Replicar el layout del motor de búsqueda Bing.
 
 [Ejercicio](https://carlesnacher.github.io/cnv-css-flex-bingweb-15112022/)
 
