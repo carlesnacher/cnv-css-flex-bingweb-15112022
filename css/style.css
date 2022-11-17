@@ -107,24 +107,40 @@
 
 .news{
     display: flex;
-    justify-content: space-between;
-    width: 65vw;
+    justify-content: center;
+    width: 85vw;
 }
 
 .news1{
-    width: 260px;
+    width: 300px;
+    height: 200px;
+}
+
+.n2{
+    margin-left: 1%;
 }
 
 .news2{
-    width: 230px;
+    width: 320px;
+    height: 200px;
+}
+
+.n3{
+    margin-left: 1%;
 }
 
 .news3{
-    width: 270px;
+    width: 300px;
+    height: 200px;
+}
+
+.n4{
+    margin-left: 1%;
 }
 
 .news4{
-    width: 300px;
+    width: 320px;
+    height: 200px;
 }
 
 .news p{
